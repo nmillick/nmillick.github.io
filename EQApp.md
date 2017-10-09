@@ -84,7 +84,7 @@ App and supporting documents
 
 The app is available at,
 
-https://nmillick.github.io
+https://nmillick.shinyapps.io/EQApp/
 
 
 Supporting code is available at,
